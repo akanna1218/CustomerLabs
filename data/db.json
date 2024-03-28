@@ -1,0 +1,13 @@
+{
+  "Segments": [
+    {
+      "id": "d11d",
+      "segment_name": "Ajay_day_19",
+      "schema": [
+        {
+          "city": "City"
+        }
+      ]
+    }
+  ]
+}
