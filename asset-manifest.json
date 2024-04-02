@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CustomerLabs/static/css/main.fd5ce8c5.css",
+    "main.css": "/CustomerLabs/static/css/main.c0e26dd3.css",
     "main.js": "/CustomerLabs/static/js/main.1afe8bd3.js",
     "static/js/453.950999cd.chunk.js": "/CustomerLabs/static/js/453.950999cd.chunk.js",
     "index.html": "/CustomerLabs/index.html",
-    "main.fd5ce8c5.css.map": "/CustomerLabs/static/css/main.fd5ce8c5.css.map",
+    "main.c0e26dd3.css.map": "/CustomerLabs/static/css/main.c0e26dd3.css.map",
     "main.1afe8bd3.js.map": "/CustomerLabs/static/js/main.1afe8bd3.js.map",
     "453.950999cd.chunk.js.map": "/CustomerLabs/static/js/453.950999cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd5ce8c5.css",
+    "static/css/main.c0e26dd3.css",
     "static/js/main.1afe8bd3.js"
   ]
 }
