@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Reddit+Mono:wght@200..900&display=swap');
 body {
   margin: 0;
   font-size: 20px;
   background-color: azure;
+  font-family: "Outfit", sans-serif;
   overflow: hidden;
 }
 
