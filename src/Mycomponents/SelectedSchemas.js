@@ -19,7 +19,7 @@ const SelectedSchemas = ({ selectedSchemas, schemas, handleSchemaChange }) => {
   return (
     <div className='selected-schemas'>
       <h3>Selected Schemas:</h3>
-      <div>
+      <div className='drop'>
         {selectedSchemas.map((schema, index) => (
           <div  key={index} style={{ marginBottom: '5px' }}>
             <select style={{ width: '80%',height:"30px",padding:'0px 50px'}}  value={schema} onChange={(e) => handleSelectedSchemaChange(e, index)}>
